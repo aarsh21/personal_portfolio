@@ -73,13 +73,13 @@ const AboutSection = () => {
                 );
               })}
             </div>
-            <Image
+            {/* <Image
               src="/hero-image.png"
               alt=""
               width={200}
               height={200}
               className="hidden pt-20 md:block md:relative md:bottom-4 md:left-20 md:z-0"
-            />
+            /> */}
           </div>
         </div>
       </div>
