@@ -4,6 +4,7 @@ import {
   AiOutlineTwitter,
   AiOutlineLinkedin,
   AiOutlineYoutube,
+  AiOutlineFileText,
 } from "react-icons/ai";
 
 const Footer = () => {
@@ -48,6 +49,12 @@ const Footer = () => {
             target="_blank"
           >
             <AiOutlineYoutube
+              className="transition-transform cursor-pointer hover:-translate-y-1 text-neutral-500 dark:text-neutral-100"
+              size={30}
+            />
+          </a>
+          <a href="https://drive.google.com/uc?export=download&id=1xg2OEiL99lCt_7S0qzsGNFc0QDf23MMj" rel="noreferrer" target="_blank">
+            <AiOutlineFileText
               className="transition-transform cursor-pointer hover:-translate-y-1 text-neutral-500 dark:text-neutral-100"
               size={30}
             />
