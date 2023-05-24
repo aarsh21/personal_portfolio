@@ -24,7 +24,7 @@ const HeroSection = () => {
           <p className="mt-4 mb-6 text-lg md:text-2xl">
             I&#39;m a{" "}
             <span className="font-semibold text-teal-600">Web Developer </span>
-            based in Rajkot-Gujarat, India. Passionate web developer with a
+            based in Rajkot-Gujarat, India. Web Dev with a
             flair for creating captivating online experiences through clean code
             and innovative design.
           </p>
