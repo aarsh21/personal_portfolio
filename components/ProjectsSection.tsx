@@ -24,7 +24,7 @@ const projects = [
   {
     name: "Gym 1o1",
     description:
-      "Gym1o1 built using Vite, React, and Tailwind CSS. The project aims to create a modern and responsive website for a gym or fitness center..",
+      "Gym1o1 built using Vite, React, and Tailwind CSS. The project aims to create a modern and responsive website for a gym or fitness center.",
     image: "/gym1o1.png",
     github: "https://github.com/aarsh21/gym1o1",
     link: "https://gym1o1.pages.dev/",
